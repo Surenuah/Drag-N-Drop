@@ -42,7 +42,7 @@ body {
     cursor: grab;
 }
 
-.item::active {
+.item:active {
     cursor: grabbing;
 }
 
